@@ -67,12 +67,6 @@ class Shashwat:
 
 ## 🎯 Featured Projects
 
-### 🧺 Ashoka Laundry Room System
-> Smart laundry management system for university students
-- Built a real-time tracking system to monitor laundry machine availability
-- Reduced wait times by 40% through predictive analytics
-- **Tech:** Python, Cloud Architecture, Real-time Data Processing
-
 ### 📬 Mailroom Management System
 > created and managed a database for university mailroom
 - manages order arrival for over 3000 students and faculty
@@ -105,16 +99,6 @@ Building and maintaining university platforms serving 3000+ students
 **📊 Data Analyst @ Ashoka Data Society**  
 Conducting independent research and generating insights published in data reviews
 
----
-
-## 🏆 Achievements
-
-🥇 **Top 25% Globally** – Euclid Mathematics Contest, University of Waterloo  
-🎵 **91-96% Distinction** – Trinity Piano & Music Theory Examinations  
-🎤 **Band Leader** – Lead vocalist and pianist performing at multiple venues  
-📜 **Certified in** Machine Learning, SQL Programming, Financial Mathematics, Econometrics
-
----
 
 ## 📊 GitHub Stats
 
