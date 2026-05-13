@@ -1,14 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Shashwat Bhajanka
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283a,100:414868&height=130&section=header&text=Shashwat%20Bhajanka&fontSize=38&fontColor=c0caf5&fontAlignY=55&desc=Data%20Scientist%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descSize=14&descAlignY=78&descColor=7aa2f7" width="100%"/>
 
-### Data Scientist | Full Stack Developer | Problem Solver
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwat-bhajanka-7705bb1a9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhajankashashwat@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShashwatBhajanka)
 
 *Turning data into decisions and ideas into products*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwat-bhajanka-7705bb1a9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhajankashashwat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShashwatBhajanka)
 
 </div>
 
@@ -16,7 +14,9 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **Ashoka University** with a passion for building data-driven solutions and full-stack applications. Whether it's analyzing market trends, developing intelligent systems, or creating tools that make life easier, I love turning complex problems into elegant solutions.
+I'm a Computer Science student at **Ashoka University** with a passion for building data-driven solutions and full-stack applications. Whether it's analyzing market trends, developing intelligent systems, or creating tools that make life easier for 3000+ students, I love turning complex problems into elegant solutions.
+
+When I'm not coding, you'll find me leading a band as pianist and vocalist, or solving math problems for fun (ranked top 25% globally in the Euclid Math Contest).
 
 ```python
 class Shashwat:
@@ -25,7 +25,7 @@ class Shashwat:
         self.interests = ["Data Science", "Full Stack Development", "Machine Learning"]
         self.currently_learning = ["Advanced ML", "Cloud Architecture", "TypeScript"]
         self.fun_fact = "I compose music and write code – both involve patterns!"
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 ```
@@ -52,61 +52,79 @@ class Shashwat:
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Tools & Platforms
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Architecture-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## 🎯 Featured Projects
 
 ### 📬 Mailroom Management System
-> created and managed a database for university mailroom
-- manages order arrival for 3000+ students and faculty
+> Database system managing university mailroom logistics
 
-### 📰 The Ashokan Around Feature
-> Campus event discovery using NLP
-- Implemented NLP algorithms to parse and categorize campus events
-- Created an intelligent events calendar with smart recommendations
-- **Tech:** Python, NLP, TypeScript, Data Analytics
+- Built and managed a full database for Ashoka University's mailroom operations
+- Tracks and manages order arrivals for **3000+ students and faculty**
+- Streamlined package handling with reliable record-keeping and fast lookup
 
-### 🛒 Online Self-Checkout System (Research Labs)
-> Reduced retail wait times through cloud-based automation
-- Designed and deployed a scalable self-checkout solution
-- Enhanced store efficiency using real-time data processing
-- **Tech:** Cloud Architecture, Data Processing, System Design
+---
+
+### 📰 The Ashokan Around
+> Campus event discovery powered by NLP
+
+- Implemented NLP algorithms to automatically parse and categorize campus events from raw sources
+- Created an intelligent events calendar with smart, personalized recommendations
+- **Tech:** Python · NLP · TypeScript · Data Analytics
+
+---
+
+### 🛒 Online Self-Checkout System *(Research Labs)*
+> Reducing retail wait times through cloud-based automation
+
+- Designed and deployed a scalable self-checkout solution end-to-end
+- Enhanced store efficiency using real-time data processing pipelines
+- **Tech:** Cloud Architecture · Data Processing · System Design
 
 ---
 
 ## 📈 Experience Highlights
 
-**🔬 Data Scientist Intern @ Samsonite**  
-Analyzed product line data to develop data-driven marketing strategies using Google Data Studio and Excel
+### 🔬 Data Scientist Intern — Samsonite
+- Analyzed product line data across multiple categories to identify market trends
+- Developed data-driven marketing strategies using **Google Data Studio** and **Excel**
+- Delivered actionable insights that directly informed product positioning decisions
 
-**💹 Finance Intern @ Groww**  
-Created personalized investment portfolios by analyzing growth trends and risk factors
+---
 
-**🎓 Full Stack Developer @ Ashoka Ministry of Technology**  
-Building and maintaining university platforms serving 3000+ students
+### 💹 Finance Intern — Groww
+- Created personalized investment portfolios by analyzing growth trends and risk factors
+- Worked with real financial datasets to identify optimal asset allocation strategies
 
-**📊 Data Analyst @ Ashoka Data Society**  
-Conducting independent research and generating insights published in data reviews
+---
 
+### 🎓 Full Stack Developer — Ashoka Ministry of Technology
+- Building and maintaining university-wide platforms serving **3000+ students**
+- Involved across the full development lifecycle from design to deployment
+
+---
+
+### 📊 Data Analyst — Ashoka Data Society
+- Conducting independent research projects on real-world datasets
+- Generating insights published in Ashoka's data reviews and internal publications
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashwatBhajanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatBhajanka&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShashwatBhajanka&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShashwatBhajanka&theme=tokyonight&hide_border=true)](https://github.com/ShashwatBhajanka)
 
 </div>
 
@@ -125,7 +143,7 @@ Conducting independent research and generating insights published in data review
 
 I'm always excited to collaborate on interesting projects or discuss opportunities in **Data Science**, **Full Stack Development**, **Business Analytics**, or anything tech!
 
-💼 **Open to:** Data Science Roles | Full Stack Positions | Business Analytics | Research Opportunities
+💼 **Open to:** Data Science Roles · Full Stack Positions · Business Analytics · Research Opportunities
 
 📧 **Email:** bhajankashashwat@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/shashwat-bhajanka-7705bb1a9](https://linkedin.com/in/shashwat-bhajanka-7705bb1a9)  
@@ -135,10 +153,10 @@ I'm always excited to collaborate on interesting projects or discuss opportuniti
 
 <div align="center">
 
-### ⭐ "Data tells stories. Code brings them to life." ⭐
+### ⭐ *"Data tells stories. Code brings them to life."* ⭐
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to chat.*
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShashwatBhajanka.ShashwatBhajanka)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283a,100:1a1b27&height=80&section=footer" width="100%"/>
 
 </div>
