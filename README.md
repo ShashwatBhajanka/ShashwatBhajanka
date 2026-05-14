@@ -61,7 +61,7 @@ class Shashwat:
 ![Google Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+___
 
 ## 🎯 Featured Projects
 
@@ -79,7 +79,7 @@ class Shashwat:
 
 - Implemented NLP algorithms to automatically parse and categorize campus events from raw sources
 - Created an intelligent events calendar with smart, personalized recommendations
-- **Tech:** Python · NLP · TypeScript · Data Analytics
+- **Tech:** Python · NLP · TypeScript · web dev
 
 ---
 
@@ -122,7 +122,6 @@ class Shashwat:
 ## 📊 GitHub Stats
 
 <div align="center">
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShashwatBhajanka&theme=tokyonight&hide_border=true)](https://github.com/ShashwatBhajanka)
 
