@@ -122,9 +122,9 @@ ___
 ## 📊 GitHub Stats
 
 <div align="center">
+    
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShashwatBhajanka&theme=tokyonight&hide_border=true)](https://github.com/ShashwatBhajanka)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShashwatBhajanka&theme=tokyonight)
 </div>
 
 
