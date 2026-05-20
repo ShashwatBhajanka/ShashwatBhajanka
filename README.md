@@ -16,7 +16,7 @@
 
 I'm a Computer Science student at **Ashoka University** with a passion for building data-driven solutions and full-stack applications. Whether it's analyzing market trends, developing intelligent systems, or creating tools that make life easier for 3000+ students, I love turning complex problems into elegant solutions.
 
-When I'm not coding, you'll find me leading a band as pianist and vocalist, or solving math problems for fun (ranked top 25% globally in the Euclid Math Contest).
+When I'm not coding, you'll find me leading a band as pianist and vocalist, or solving math problems (ranked top 25% globally in the Euclid Math Contest).
 
 ```python
 class Shashwat:
